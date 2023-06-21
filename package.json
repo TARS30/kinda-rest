@@ -1,4 +1,5 @@
 {
+  "proxy": "https://tars30.github.io/build2/",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
