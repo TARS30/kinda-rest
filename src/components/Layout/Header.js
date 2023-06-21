@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 
-import image from '../../assets/sushi - Copy.jpg'
+import image from '../../assets/image.jpg'
 import styles from './Header.module.css'
 import HeaderCartButton from "./HeaderCartButton";
 
