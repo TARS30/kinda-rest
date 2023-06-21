@@ -88,7 +88,7 @@ const Cart = (props) => {
               onClick={orderVisibilityHandler}
               className={styles.button}
             >
-              Order
+              Order!!
             </button>
           )}
         </div>
