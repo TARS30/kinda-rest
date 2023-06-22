@@ -23,7 +23,7 @@
   font: inherit;
   cursor: pointer;
   background-color: transparent;
-  border: 1px solid #6b068a;
+  border: 1px solid #0a8a06;
   padding: 0.5rem 2rem;
   border-radius: 25px;
   margin-left: 1rem;
@@ -31,18 +31,18 @@
 
 .actions button:hover,
 .actions button:active {
-  background-color: #47035d;
-  border-color: #47035d;
+  background-color: #035d0f;
+  border-color: #035d12;
   color: white;
 }
 
 .actions .button {
-  background-color: #6b068a;
+  background-color: #068a18;
   color: white;
 }
 .submitting {
   text-align: center;
-  color: #6b068a;
+  color: #068a1c;
   font-size: 20px;
   font-weight: 700;
 }

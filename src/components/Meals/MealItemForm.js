@@ -34,8 +34,8 @@ const MealItemForm = (props) => {
           defaultValue: "1",
         }}
       />
+      {!isAmountValid && <p>Between 1 - 10!</p>}
       <button>Add</button>
-      {!isAmountValid && <p>1 - 10</p>}
     </form>
   );
 };

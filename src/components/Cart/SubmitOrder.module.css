@@ -11,28 +11,30 @@
 .control label {
   margin-bottom: 0.3rem;
   display: block;
+  text-align: center;
 }
 
 .control input {
   font: inherit;
   border: 1px solid #ccc;
   border-radius: 5px;
-  width: 20rem;
+  width: 75%;
+  margin: 0 10%;
   max-width: 100%;
 }
 
 .actions {
   display: flex;
-  justify-content: flex-end;
-  gap: 2rem;
+  justify-content: center;
+  gap: 1rem;
 }
 
 .actions button {
   font: inherit;
-  color: #6b068a;
+  color: #068a27;
   cursor: pointer;
   background-color: transparent;
-  border: 1px solid #6b068a;
+  border: 1px solid #068a1c;
   border-radius: 25px;
   padding: 0.5rem 2rem;
 }
@@ -43,15 +45,15 @@
 }
 
 .actions .submit {
-  border: 1px solid #6b068a;
-  background-color: #6b068a;
+  border: 1px solid #068a23;
+  background-color: #068a23;
   color: white;
 }
 
 .actions .submit:hover,
 .actions .submit:active {
-  background-color: #47035d;
-  border-color: #47035d;
+  background-color: #035d1e;
+  border-color: #035d16;
   color: white;
 }
 
